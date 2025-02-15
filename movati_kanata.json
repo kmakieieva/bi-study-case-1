@@ -1,0 +1,785 @@
+{
+  "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY",
+  "id": "ChIJFXg5mn4A0kwRd68ennHo3CY",
+  "types": [
+    "fitness_center",
+    "yoga_studio",
+    "gym",
+    "sauna",
+    "spa",
+    "public_bath",
+    "swimming_pool",
+    "sports_complex",
+    "sports_activity_location",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(613) 832-7700",
+  "internationalPhoneNumber": "+1 613-832-7700",
+  "formattedAddress": "19 Frank Nighbor Pl, Ottawa, ON K2V 0H1, Canada",
+  "addressComponents": [
+    {
+      "longText": "19",
+      "shortText": "19",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en-US"
+    },
+    {
+      "longText": "Frank Nighbor Place",
+      "shortText": "Frank Nighbor Pl",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Stittsville",
+      "shortText": "Stittsville",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ontario",
+      "shortText": "ON",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Canada",
+      "shortText": "CA",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "K2V 0H1",
+      "shortText": "K2V 0H1",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en-US"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "87Q6832M+6C",
+    "compoundCode": "832M+6C Stittsville, Ottawa, ON, Canada"
+  },
+  "location": {
+    "latitude": 45.3005765,
+    "longitude": -75.9164338
+  },
+  "viewport": {
+    "low": {
+      "latitude": 45.299163319708491,
+      "longitude": -75.917387730291509
+    },
+    "high": {
+      "latitude": 45.30186128029149,
+      "longitude": -75.9146897697085
+    }
+  },
+  "rating": 3.9,
+  "googleMapsUri": "https://maps.google.com/?cid=2800368642999365495",
+  "websiteUri": "http://www.movatiathletic.com/",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-12T05:00:00Z"
+  },
+  "utcOffsetMinutes": -300,
+  "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e19 Frank Nighbor Pl\u003c/span\u003e, \u003cspan class=\"locality\"\u003eOttawa\u003c/span\u003e, \u003cspan class=\"region\"\u003eON\u003c/span\u003e \u003cspan class=\"postal-code\"\u003eK2V 0H1\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eCanada\u003c/span\u003e",
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 372,
+  "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "iconBackgroundColor": "#7B9EB0",
+  "displayName": {
+    "text": "MOVATI Athletic Kanata",
+    "languageCode": "en"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Fitness center",
+    "languageCode": "en-US"
+  },
+  "currentOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "close": {
+          "day": 1,
+          "hour": 23,
+          "minute": 59,
+          "truncated": true,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 12
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 13
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-12T05:00:00Z"
+  },
+  "primaryType": "fitness_center",
+  "shortFormattedAddress": "19 Frank Nighbor Pl, Ottawa",
+  "reviews": [
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdHFpc01nEAE",
+      "relativePublishTimeDescription": "a week ago",
+      "rating": 1,
+      "text": {
+        "text": "This gym has gone downhill RAPIDLY over the last two years. First of all, Ryan the manager is a very mean person. Concerning the gym itself, there are too many people, the facilities (showers, change rooms, steam room) are disgustingly dirty, used towels always strewn throughout the change rooms, outrageously rude staff, equipment broken down all the time, no parking space, trainers kick you off machines to prioritize their “athletes”, meanwhile they’re constantly raising prices and removing services. It’s no longer worth the cost. I leave here feeling irritated more than I do relieved most evenings. Get it together… 👎🏽",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "This gym has gone downhill RAPIDLY over the last two years. First of all, Ryan the manager is a very mean person. Concerning the gym itself, there are too many people, the facilities (showers, change rooms, steam room) are disgustingly dirty, used towels always strewn throughout the change rooms, outrageously rude staff, equipment broken down all the time, no parking space, trainers kick you off machines to prioritize their “athletes”, meanwhile they’re constantly raising prices and removing services. It’s no longer worth the cost. I leave here feeling irritated more than I do relieved most evenings. Get it together… 👎🏽",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Materials Tools",
+        "uri": "https://www.google.com/maps/contrib/116154374113180002128/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLNpXNy6rW0uYshs26GBGbtbbv_NOgiD2-t3vwpib1Co74cA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-31T17:17:12.396536Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdHFpc01nEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdHFpc01nEAE!2m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfX29IRENBEAE",
+      "relativePublishTimeDescription": "3 weeks ago",
+      "rating": 5,
+      "text": {
+        "text": "The gym is always clean and has a huge array of equipment. Even when it’s busy it doesn’t feel over crowded. The fitness classes are fantastic. That’s the main reason I come here. There’s a large variety of classes and with really helpful instructors so you can try new things without being anxious. My one complaint is the amount of people saving machines with their bottles or towels. A machine will sit unused for ten to twenty minutes before the person ever comes back. I wish they would enforce a no saving rule or something because it’s super annoying. Other than that I love this gym.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "The gym is always clean and has a huge array of equipment. Even when it’s busy it doesn’t feel over crowded. The fitness classes are fantastic. That’s the main reason I come here. There’s a large variety of classes and with really helpful instructors so you can try new things without being anxious. My one complaint is the amount of people saving machines with their bottles or towels. A machine will sit unused for ten to twenty minutes before the person ever comes back. I wish they would enforce a no saving rule or something because it’s super annoying. Other than that I love this gym.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Kaitlyn",
+        "uri": "https://www.google.com/maps/contrib/113881087928363390564/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_Gw6ztz70MIjvm2VMbEtmtfPWmrDvqISzxUUh7CkNNlch9KyS=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-01-16T16:15:14.965555Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfX29IRENBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfX29IRENBEAE!2m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dTRfZzFnRRAB",
+      "relativePublishTimeDescription": "2 months ago",
+      "rating": 5,
+      "text": {
+        "text": "Movati Kanata is in a central location beside Home Depot and across from Costco Kanata. With only one road in and out for the gym, costco, and other businesses, traffic can get busy. In all, it is worth it to have a women's only gym and fitness class studio as well as a women's only pool (with hot tub, steam room & sauna). The classes are excellent and diverse: hot yoga, spin class, kickboxing, zumba... including womens only classes. There is an online booking system for class reservations, and the number of remaining open spots is shown so you can see if it is sold out or how busy the class will be in advance.  Bookings are checked before entry to avoid classes being over-filled. Post-workout, the protein shakes at the juice bar are so tasty!! Staff are pleasant, and the entire premises are well-maintained and clean. Great mix of ages and fitness levels!  It's always a great workout at movati: The gym for everybody!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Movati Kanata is in a central location beside Home Depot and across from Costco Kanata. With only one road in and out for the gym, costco, and other businesses, traffic can get busy. In all, it is worth it to have a women's only gym and fitness class studio as well as a women's only pool (with hot tub, steam room & sauna). The classes are excellent and diverse: hot yoga, spin class, kickboxing, zumba... including womens only classes. There is an online booking system for class reservations, and the number of remaining open spots is shown so you can see if it is sold out or how busy the class will be in advance.  Bookings are checked before entry to avoid classes being over-filled. Post-workout, the protein shakes at the juice bar are so tasty!! Staff are pleasant, and the entire premises are well-maintained and clean. Great mix of ages and fitness levels!  It's always a great workout at movati: The gym for everybody!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "bamy333",
+        "uri": "https://www.google.com/maps/contrib/105927402555532248556/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4rb1mMsVW91_N6TyQg1S5Oaj2tViYkYpbf3BZsdUv0I-lt4heJA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-02T23:20:39.753613Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4dTRfZzFnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4dTRfZzFnRRAB!2m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmaHZqQWxnRRAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 2,
+      "text": {
+        "text": "This gym has certainly gone downhill over the past two years. The locker rooms, sauna and steam rooms are incredibly grimy, towel drop off always overflowing… they allow members to hang their dirty underwear outside the showers and leave them there. There is definitely a lot included in a membership price but the care of the facility has gone downhill so much it’s not worth it.\n\nIt’s disgusting.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "This gym has certainly gone downhill over the past two years. The locker rooms, sauna and steam rooms are incredibly grimy, towel drop off always overflowing… they allow members to hang their dirty underwear outside the showers and leave them there. There is definitely a lot included in a membership price but the care of the facility has gone downhill so much it’s not worth it.\n\nIt’s disgusting.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Anthony Desloges",
+        "uri": "https://www.google.com/maps/contrib/113852313541949830356/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbE5gbPf-m3fNpu_xUBLkQKKqxlYVVRXvbElw84frVlOLHEY_a=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-01-05T22:13:10.774807Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmaHZqQWxnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmaHZqQWxnRRAB!2m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcWNMTW1nRRAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 5,
+      "text": {
+        "text": "Really impressed with the gym being going there for 2 years. There is a wide variety of equipment to use with a lot of space so you don’t feel too crowded. After my workout I enjoy a nice soak in the hot tub which rejuvenates me. I was greatly distraught when I found out that they removed the pool table. Me and my buddy enjoy to play a game of pool every so often after our work out. I hope if they remove the pool table they will replace it with something new and better.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Really impressed with the gym being going there for 2 years. There is a wide variety of equipment to use with a lot of space so you don’t feel too crowded. After my workout I enjoy a nice soak in the hot tub which rejuvenates me. I was greatly distraught when I found out that they removed the pool table. Me and my buddy enjoy to play a game of pool every so often after our work out. I hope if they remove the pool table they will replace it with something new and better.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Chris Perron",
+        "uri": "https://www.google.com/maps/contrib/106359094613556761720/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLw_krq_UMbNOs-j6tCaHDAJpzZaHUM3BUg3LBm5nKdnQwkKA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-10-29T02:40:13.658982Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcWNMTW1nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcWNMTW1nRRAB!2m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbnz1nbkyU1sSbNQitglmVJvcHbaJi3TEJ7moCtXNgftAXrmZlCMRp3mtFbh4CnMFOTZbOitvQi33mhHEe71ArMDHSmVkokBbTZAISyHwRW6AFsCdeTGyQDYug058HOldRPabB-9mv9K1kVBre-n1llXMLrvnbZ9S36g",
+      "widthPx": 851,
+      "heightPx": 315,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNpXAYm-m6s2aKRbsZR87_FH5DUTxcr13NelEoG&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNpXAYm-m6s2aKRbsZR87_FH5DUTxcr13NelEoG!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbmbzOM4DW6TEILRfPMigEYg_MJc-k6D3NhqlsaTlCvswDlwO1g30bkKb70bkz-Kj7wLEgtLjLzgmsKNBnjvHKR_L5BjOBkNCQE5Sl1R0M6pCJCI157bJZ-JpnefOkVaQ2AK8RlOry2bz_aDIk-zW1KwUPD5xtvWUyxe",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOWZC2a5MDMvp5qqVqfb7vg8B4tyjSK-tQPgfAR&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOWZC2a5MDMvp5qqVqfb7vg8B4tyjSK-tQPgfAR!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbn9ix1WeEWwD5Jp8rxNw0YibudKmSVSv98SkfInaOWCLIbjSp8WbuvuV_N8XJxWrSyttbTOKtB7JcizmABmCuX7GBPjKLKbdKv2A27bFWwT452MOngQyT_5BVhuSTpnzd7d6-SkicZcAmqcxozxXnYQqIPTfjQzLILK",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOKs3WdRsgAwECtzsqK1BgGczc3YPgwiYZi2BJ6&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOKs3WdRsgAwECtzsqK1BgGczc3YPgwiYZi2BJ6!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbmC2AM80VnB6_uVaY0YN8qaP0G8ZWaB5LYzTCAFu3yVcP-0bEBGaUIAFT9FCar44uiDRHm7ZhgJjWFdunbC-4uEhROGcGIIZw4FV6nvT782VP1QN9mLN47mlOKLarxTdqefPkZF_XrsW0daOFrCPEmDTXmgPaKF9r5S",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOJ4b3gw2uyRzLO2k59G9ppsBOFDXnO9jLVQqTh&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOJ4b3gw2uyRzLO2k59G9ppsBOFDXnO9jLVQqTh!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbkwaaYBwPcJMHQ7kfLuoFIo1s0NgbfWv73Z_Zpd41WuAos2dRbDvItStAw8wZIxF1EWgUUGwX6L12Lr2HnHcgaydKEMmaM-0Qp2lGj_P8gkUfoHmt5zzup-I_UyBQ_WKjex_wK8MbQ2GpBngviEfycoAtngXAR4DV9s",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOC71viTctRncvIM3_LYlKYHuRiFi1pk6JIXtCN&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOC71viTctRncvIM3_LYlKYHuRiFi1pk6JIXtCN!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdblrNyIu1-xWLFfSegDBMRRS_8tn7Xz4k0F_r4s3LBxG7GKrU6tdYtvOEiz7UZi4lVcl0yE0JDbmkM5cFxy2likJeIjtU66wERz4Szv66EkVDMwghwauljpNKTrp87tiz7VR4yvac65TBTxnr-EABbkHox2rrtibgVCN",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPSI1A6V9eCiXGjAZwerk-SPFC7hJ3t1LuHQPPo&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPSI1A6V9eCiXGjAZwerk-SPFC7hJ3t1LuHQPPo!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdblhNIWcxwQHvc7PXNkcuNiZhSbAeCDk-kw65ZNLJO3boui3LVeKaU5mHoCQnEEpgtYGBw2HHeLpiLw4HVp-x17Mrfc_mOqp6dEc04B2eoW_FVBDXptbtZF_PEeeJ9ZW0qSvwWiC4LyArQuDmEbCpVLghqimjQVzaFgv",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhrYSd93W09oQb-LBiC90qA7fDi7em0-ezok2g&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhrYSd93W09oQb-LBiC90qA7fDi7em0-ezok2g!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbmMbDRsjYulzpY3vg7x-KI_MFvTGbnm6p0W20XNuu0yupW4V2OEj9IkcJ3XRS-e3GXn_M2so1ZqIFVXGnr6WZH4V-j9VellMGqQZ7CM2b50ZVbz5jQic7H8ELZBBV_6v_zIeYt70W4jDSkieX07M8qTqdIKsyVfpbY9",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMvWIAH9c8k7QIrWJogjGWwOqZo6585piXpoNCa&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMvWIAH9c8k7QIrWJogjGWwOqZo6585piXpoNCa!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbnyXUbmx7mjhmG-sYJiYJP5u48X60oRZ6xkIlwAn8bIE8_8cqH5L-v0vU2BlczT6x0bQwUXWh9010f00h_D3xzpB5thqKRJtI0dkX1zrz99XRW3BvJ2Dge7n2Sg_qo5Zpf5XyzE9B4SQr34YutqNJr1MkJ0PpI8j7_b",
+      "widthPx": 1500,
+      "heightPx": 1000,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNbG1lCnMaUVsvn3RMFX0s-XzFclQ00XF-IYbcl&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNbG1lCnMaUVsvn3RMFX0s-XzFclQ00XF-IYbcl!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    },
+    {
+      "name": "places/ChIJFXg5mn4A0kwRd68ennHo3CY/photos/AVzFdbmmKv07hK_7fX0crcvfJim_DO0I61uVfP-9SUmf_mOjJRZnKZTScXa3VnIM3HNy9c6QPy-fT-d6Br9Tgysct8mCZX0IcLRFF24HHnOey6GMuSewgoykVxF7Xd6OAFYKDppmK6gREr6BO3Isec3VuRC6Nmp-cqc7XSrl",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Kanata",
+          "uri": "https://maps.google.com/maps/contrib/102644783692827532108",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWeh1XPFX_CBLL9ziKU4HeHyfVqUxwcOmmKiqSmw5oTiV2jp4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOsl7-_W55p7m2rzTAmLzL79AP_1K562BcHX46Q&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOsl7-_W55p7m2rzTAmLzL79AP_1K562BcHX46Q!2e10!4m2!3m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77"
+    }
+  ],
+  "goodForChildren": true,
+  "restroom": true,
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true,
+    "wheelchairAccessibleRestroom": true
+  },
+  "addressDescriptor": {
+    "landmarks": [
+      {
+        "name": "places/ChIJUaZos34A0kwRhSVPmxW7bTI",
+        "placeId": "ChIJUaZos34A0kwRhSVPmxW7bTI",
+        "displayName": {
+          "text": "The Home Depot",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "furniture_store",
+          "hardware_store",
+          "home_goods_store",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 178.42093,
+        "travelDistanceMeters": 244.41396
+      },
+      {
+        "name": "places/ChIJP5TaGXkA0kwRHhdcY00utFY",
+        "placeId": "ChIJP5TaGXkA0kwRHhdcY00utFY",
+        "displayName": {
+          "text": "Costco Wholesale",
+          "languageCode": "en"
+        },
+        "types": [
+          "department_store",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 311.6219,
+        "travelDistanceMeters": 487.13684
+      },
+      {
+        "name": "places/ChIJoea_jX4A0kwRHD8Ve6Cia8U",
+        "placeId": "ChIJoea_jX4A0kwRHD8Ve6Cia8U",
+        "displayName": {
+          "text": "Xtreme Trampoline Park",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 161.97745,
+        "travelDistanceMeters": 158.2822
+      },
+      {
+        "name": "places/ChIJg43NX4D_zUwRv8scYexZ6_k",
+        "placeId": "ChIJg43NX4D_zUwRv8scYexZ6_k",
+        "displayName": {
+          "text": "Altitude Gym",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "gym",
+          "health",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 448.5909,
+        "travelDistanceMeters": 827.1849
+      },
+      {
+        "name": "places/ChIJB-5l0DsB0kwR18TKP-rViEU",
+        "placeId": "ChIJB-5l0DsB0kwR18TKP-rViEU",
+        "displayName": {
+          "text": "401 Auto Financing | Ottawa",
+          "languageCode": "en"
+        },
+        "types": [
+          "car_dealer",
+          "establishment",
+          "finance",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 258.4419,
+        "travelDistanceMeters": 389.26212
+      }
+    ],
+    "areas": [
+      {
+        "name": "places/ChIJo-toZI7_zUwR4NTFd3DAxBM",
+        "placeId": "ChIJo-toZI7_zUwR4NTFd3DAxBM",
+        "displayName": {
+          "text": "Katimavik-Hazeldean",
+          "languageCode": "en"
+        },
+        "containment": "WITHIN"
+      },
+      {
+        "name": "places/ChIJnfScL1P_zUwRxVe8NpDwqH0",
+        "placeId": "ChIJnfScL1P_zUwRxVe8NpDwqH0",
+        "displayName": {
+          "text": "Stittsville",
+          "languageCode": "en"
+        },
+        "containment": "OUTSKIRTS"
+      },
+      {
+        "name": "places/ChIJHUYfV3kA0kwRVaCHb0kjYKo",
+        "placeId": "ChIJHUYfV3kA0kwRVaCHb0kjYKo",
+        "displayName": {
+          "text": "The Home Depot",
+          "languageCode": "en"
+        },
+        "containment": "NEAR"
+      }
+    ]
+  },
+  "googleMapsLinks": {
+    "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4cd2007e9a397815:0x26dce8719e1eaf77!3e0",
+    "placeUri": "https://maps.google.com/?cid=2800368642999365495",
+    "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cd2007e9a397815:0x26dce8719e1eaf77!12e1",
+    "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4cd2007e9a397815:0x26dce8719e1eaf77!9m1!1b1",
+    "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cd2007e9a397815:0x26dce8719e1eaf77!10e5"
+  }
+}

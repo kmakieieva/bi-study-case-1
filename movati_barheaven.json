@@ -1,0 +1,790 @@
+{
+  "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c",
+  "id": "ChIJsfxt-9LizUwR_1HfMUlLV1c",
+  "types": [
+    "fitness_center",
+    "yoga_studio",
+    "gym",
+    "sauna",
+    "public_bath",
+    "swimming_pool",
+    "sports_complex",
+    "spa",
+    "health",
+    "sports_activity_location",
+    "point_of_interest",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(613) 515-2663",
+  "internationalPhoneNumber": "+1 613-515-2663",
+  "formattedAddress": "15 Crestway Dr, Ottawa, ON K2G 4S3, Canada",
+  "addressComponents": [
+    {
+      "longText": "15",
+      "shortText": "15",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Crestway Drive",
+      "shortText": "Crestway Dr",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Nepean",
+      "shortText": "Nepean",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ontario",
+      "shortText": "ON",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Canada",
+      "shortText": "CA",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "K2G 4S3",
+      "shortText": "K2G 4S3",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "87Q677GP+Q9",
+    "compoundCode": "77GP+Q9 Nepean, Ottawa, ON, Canada"
+  },
+  "location": {
+    "latitude": 45.2769342,
+    "longitude": -75.714018799999991
+  },
+  "viewport": {
+    "low": {
+      "latitude": 45.275610169708507,
+      "longitude": -75.7155881302915
+    },
+    "high": {
+      "latitude": 45.2783081302915,
+      "longitude": -75.712890169708487
+    }
+  },
+  "rating": 3.1,
+  "googleMapsUri": "https://maps.google.com/?cid=6293581782014972415",
+  "websiteUri": "http://www.movatiathletic.com/",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "nextCloseTime": "2025-02-15T05:00:00Z"
+  },
+  "utcOffsetMinutes": -300,
+  "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e15 Crestway Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eOttawa\u003c/span\u003e, \u003cspan class=\"region\"\u003eON\u003c/span\u003e \u003cspan class=\"postal-code\"\u003eK2G 4S3\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eCanada\u003c/span\u003e",
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 493,
+  "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "iconBackgroundColor": "#7B9EB0",
+  "displayName": {
+    "text": "MOVATI Athletic Barrhaven",
+    "languageCode": "en"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Fitness center",
+    "languageCode": "en"
+  },
+  "currentOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "close": {
+          "day": 0,
+          "hour": 21,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 18
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 18
+          }
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 19
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 59,
+          "truncated": true,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 21,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "nextCloseTime": "2025-02-15T05:00:00Z"
+  },
+  "primaryType": "fitness_center",
+  "shortFormattedAddress": "15 Crestway Dr, Ottawa",
+  "reviews": [
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYakwyTVRREAE",
+      "relativePublishTimeDescription": "4 months ago",
+      "rating": 1,
+      "text": {
+        "text": "This location is horrible. Management extremely unprofessional. Also very crowded, change rooms are disgusting, people pooping in the pools. Disaster gym. Do not go here!!!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "This location is horrible. Management extremely unprofessional. Also very crowded, change rooms are disgusting, people pooping in the pools. Disaster gym. Do not go here!!!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Lisa Chan",
+        "uri": "https://www.google.com/maps/contrib/114910281188228201935/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3eiLmKS41dE6oF0xuF-w4XKPAr_9cIY9fQXoTflphhNSKZg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-10-13T21:00:14.182699Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYakwyTVRREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYakwyTVRREAE!2m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/reviews/ChZDSUhNMG9nS0VJQ0FnSURIM1BHQkJ3EAE",
+      "relativePublishTimeDescription": "5 months ago",
+      "rating": 5,
+      "text": {
+        "text": "I am a former member at this club. This is a fantastic business that provides a great service to Barrhaven and surrounding residents. The club is clean, well maintained and highly professional. The staff take pride in the work that they do from the front desk to the custodial staff. I have been a member for years, I hope prospective members consider the Movati experience to attain their fitness or wellbeing goals.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "I am a former member at this club. This is a fantastic business that provides a great service to Barrhaven and surrounding residents. The club is clean, well maintained and highly professional. The staff take pride in the work that they do from the front desk to the custodial staff. I have been a member for years, I hope prospective members consider the Movati experience to attain their fitness or wellbeing goals.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "CJ",
+        "uri": "https://www.google.com/maps/contrib/105969039251026371294/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeAsqQFUmloQm6KuGWpeseWc9RH561mc9SNSMkHI64UKb5uaYbqQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-09-13T15:42:54.290386Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIM1BHQkJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIM1BHQkJ3EAE!2m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/reviews/ChdDSUhNMG9nS0VJQ0FnSURIMUx1UXVRRRAB",
+      "relativePublishTimeDescription": "5 months ago",
+      "rating": 5,
+      "text": {
+        "text": "My experience at MOVATI Athletic Barrhaven has been nothing short of excellent. The staff, from the front desk receptionists to the cleaning personnel, all contribute to creating a clean and welcoming environment. Their helpfulness and professionalism truly stand out and make each visit enjoyable. The attention to detail in maintaining the facility is commendable, and I appreciate the high level of service they provide. Wishing the team continued success and growth as they strive to maintain such high standards!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "My experience at MOVATI Athletic Barrhaven has been nothing short of excellent. The staff, from the front desk receptionists to the cleaning personnel, all contribute to creating a clean and welcoming environment. Their helpfulness and professionalism truly stand out and make each visit enjoyable. The attention to detail in maintaining the facility is commendable, and I appreciate the high level of service they provide. Wishing the team continued success and growth as they strive to maintain such high standards!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Rafael D. Mikhrali",
+        "uri": "https://www.google.com/maps/contrib/102730584873914675469/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6fhKImMleL9W1gLpexXEssGv8OGGXilziPOCQqvjLaa8fobFh=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-13T03:58:58.198757Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIMUx1UXVRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIMUx1UXVRRRAB!2m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMmFHa1VBEAE",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 1,
+      "text": {
+        "text": "As a former member, I used to like this place however it became soo crowded because they sold so many memberships that place can not handle. And don't let me talk about how classes!you have to book ahead of time and yet they might change it. Example:booking for aqua classes in WOMEN'S area, they put on the app lifeguard as female yet right few minutes before class they either switch to MALE LG or cancel without sending notifications. Overall I am completely disappointed in this one. You don't get what you pay for.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "As a former member, I used to like this place however it became soo crowded because they sold so many memberships that place can not handle. And don't let me talk about how classes!you have to book ahead of time and yet they might change it. Example:booking for aqua classes in WOMEN'S area, they put on the app lifeguard as female yet right few minutes before class they either switch to MALE LG or cancel without sending notifications. Overall I am completely disappointed in this one. You don't get what you pay for.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "E Sal",
+        "uri": "https://www.google.com/maps/contrib/111506632458918606683/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkYNo9vUxovImkqSEJ7JHjNXBFr8Lvq-AncHYTctJmsVfkTrs=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-12-30T16:32:21.142861Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMmFHa1VBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMmFHa1VBEAE!2m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOHN5cUhREAE",
+      "relativePublishTimeDescription": "3 weeks ago",
+      "rating": 1,
+      "text": {
+        "text": "Quite possibly the worst gym in the entire city. Don’t go to this location. The patrons are brutal, staff are even worse. I’ve never felt less welcome at a place that supposedly promoted it.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Quite possibly the worst gym in the entire city. Don’t go to this location. The patrons are brutal, staff are even worse. I’ve never felt less welcome at a place that supposedly promoted it.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Sara H",
+        "uri": "https://www.google.com/maps/contrib/101384652245821551516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn9H2d7IsrH8EdoNzO_A0oNuVSgwso8fqzhobE_Tis80xnWp5flg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-01-23T05:16:24.549184Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOHN5cUhREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOHN5cUhREAE!2m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbkfeNN30VAl25TOEatKSX_IGJD1AZmn19L2j-VrSCNPsBP895pqRgYISwbZcZqq2_JcaOFPKGeK8hL7brNzPV0qSYVpLoi12n_ZfTbQxBhpKLwoz6sumNET6fT4DDoIYvHN6iymA2z3To7yTU1JS2c_WIO878gF8kkQ",
+      "widthPx": 851,
+      "heightPx": 315,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNBxt7PrZb1SX_An4Cco_IyZLqV0osvjInP_j8x&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNBxt7PrZb1SX_An4Cco_IyZLqV0osvjInP_j8x!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbnH5qjoXleVOkA_LbLT9VgQ1Rs0W0WzmD4X4gWe66GHo9zzcLNpLIgvxtHN5nbGulxazhDgHdkNO_ZHR1l22BBbxwGzhf-PCBH-ZwLwwFaqsq4q_bkd9YDiXhIv2Jio3aWrmM7BcVUYGRXkAfS4l-Imn4nU3imo1hyW",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPZJxtzJTnXVKlSmLOxHzkLm8G7wiXA9LLz5bDN&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPZJxtzJTnXVKlSmLOxHzkLm8G7wiXA9LLz5bDN!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbm7Kn1hIl0Kw_pPlkBmofjt-mMOqfwLlMt71faXSvd9v9p0X3rTBdjbg8OiFaiey27vuHKl7XOIkCc2hcCxoAV_u907Gkcj2tmiZpeGeoax5nKzDvNzrz1culykCvYjTk0xoRydVoOgqzgKNAzFb9ja5NjYCIdQaO0f",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "John M",
+          "uri": "https://maps.google.com/maps/contrib/116521082787822276136",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzc_rgeF7_wVJwxQceBS3g9x1blb42M7vAzPx7ubwfpir5J5vY=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOpIG81DI0qMOP_dOIB_x8idZ3XdLAfl-08WHZd&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOpIG81DI0qMOP_dOIB_x8idZ3XdLAfl-08WHZd!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbnNoOjzJBUpHFJcKTtizq-ZLHQ-3p6_U-G1GAenPhJ-JE4TgaDqaoCW6YU9uLXiopLNev_X2EGTYQ_HPoXLgiVxYh63mejFlpIXfUo5XmN0Xa0fbJhgI0mPC6SHiZrVZ_8vetaCItMfS2gj2su2cZ6DdgS6-QoHqPEP",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOEFCb0jZl1Hs-zjVmBLFmjTt3HeWI_EZvWlkSM&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEFCb0jZl1Hs-zjVmBLFmjTt3HeWI_EZvWlkSM!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbnStO5suf_D1NUI3jVWxskSRtSkfCAn9D1n8TQyMiTvxfqQ3US92bCVluITd9-lcc8kg6bJrnMLaVddDw_GIMY7I_PMNFTAiulpQl7Tec4Ij2B0pNwWUGlOK3LZZeAkCBc3sfVbsqdr6poAlwh0hGoLbaBWJdo4uPlM",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXT1dvS70HWmxpaF5_mSHrDT36K0f-u2bxZfi5&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXT1dvS70HWmxpaF5_mSHrDT36K0f-u2bxZfi5!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbmybpKyfXxRPXEPuG1chvi9hKawengWtQn6n724Cr7wk9B8gazzlT8bSEBvoyifzhodchuVUkxJldZkunFMD-OXRnTj_xVRc8EoLDAx0UyQKAbmBXQl1g77uiXY_612aZKxsSHQ438ZRXFzFYfYc6T2zfrgbgIhWL4g",
+      "widthPx": 1500,
+      "heightPx": 998,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4N--p-k7TS59vJNpz9pCIHzfF-BXUKrSf57L8&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4N--p-k7TS59vJNpz9pCIHzfF-BXUKrSf57L8!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbl4hLhuiNnd0BvLCXIFW_ZJzBdDqWe0plKFeoGsQmDnzdpULqIYwQOYnzgbCWHI8aP5x_vLqk_J-AZZHZcN2cU8Z9ZLeOlLdBodOhkzCdioGGISQkhBuU1_NJXz7BwS2k-YncP79DS3c1JzwgHwi8yDNV5fs_JJb4P_",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPYdt7FuK1Q2jmhfPz1v9sQZToU4bR90DJZ7fP8&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYdt7FuK1Q2jmhfPz1v9sQZToU4bR90DJZ7fP8!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdbnWdK0Me4lQYEM2mf_-Bonj6VcILUeEeWW6gB5X_Zo1-0ouavAZKdPPRSWlZrmdOZLe0TYyNW1IFlcWCa60cqJ1PyxyxnZ56dewkcVgunX0d7coeSgB3B6nBK6Ao6bh2mBtkuT81AxCJ_vawau-h1TL5DC3UncTD_7_",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPPLCMvJvxFMrvb7T37nKFXIWfz7JagaR-vzCan&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPPLCMvJvxFMrvb7T37nKFXIWfz7JagaR-vzCan!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdblr8IjTwfA_Hk_J25uFPopzFQaDIdD9jwX2ZnZW36Jy2ZLlKwucMaHnX6rbuyJXErZM0rUnD0EFi64Ku_EX7cHQkZ8WTbXkKlPCnxQfgOV3ws9b-7sZ8B1BXy2C1qlXzitEMLxSV-C5HQnVsMVreJ98jnMCGldHmpgK",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPjw9ZzTulTWfTXqVudYT2OHjywBFXKE2IBVK0Q&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPjw9ZzTulTWfTXqVudYT2OHjywBFXKE2IBVK0Q!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    },
+    {
+      "name": "places/ChIJsfxt-9LizUwR_1HfMUlLV1c/photos/AVzFdblQ9ooKZlOu1eLt61mXebrXcU7-hv_l3LdZmECRPId2OWIyz8UbSbPZ0Iba19MO8Y1z0v1n0U7wV_XsXsdJLuDnxMAwnWMdiQ_Sefx27q3vgXqDOaIuzcKPeoCGWGQpxwfLKEWXPgQJcKEzz71RwMSSg167ZcvMNIQY",
+      "widthPx": 1500,
+      "heightPx": 998,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Barrhaven",
+          "uri": "https://maps.google.com/maps/contrib/100004690123890182204",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7N5ciSLCxD6D2W261W0FXUcyCMbF799_D8hzrIaUQcGpLsvjU=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQA_Hl_EsIUUf1E6aCSGqmp0ovEe69ip-fkiHH&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQA_Hl_EsIUUf1E6aCSGqmp0ovEe69ip-fkiHH!2e10!4m2!3m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff"
+    }
+  ],
+  "goodForChildren": true,
+  "restroom": true,
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true,
+    "wheelchairAccessibleRestroom": true
+  },
+  "pureServiceAreaBusiness": false,
+  "addressDescriptor": {
+    "landmarks": [
+      {
+        "name": "places/ChIJi7-Nj9TizUwRpO1jfe-g_Hk",
+        "placeId": "ChIJi7-Nj9TizUwRpO1jfe-g_Hk",
+        "displayName": {
+          "text": "Menchie's Barrhaven",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "food",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 222.78162,
+        "travelDistanceMeters": 454.15674
+      },
+      {
+        "name": "places/ChIJXRlHCtfizUwRtaaAKB2ICI4",
+        "placeId": "ChIJXRlHCtfizUwRtaaAKB2ICI4",
+        "displayName": {
+          "text": "FreshCo Strandherd & Cresthaven",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "food",
+          "grocery_or_supermarket",
+          "point_of_interest",
+          "store",
+          "supermarket"
+        ],
+        "straightLineDistanceMeters": 483.2522,
+        "travelDistanceMeters": 884.70447
+      },
+      {
+        "name": "places/ChIJ6bKsljH9zUwRTVpUFPNBe3c",
+        "placeId": "ChIJ6bKsljH9zUwRTVpUFPNBe3c",
+        "displayName": {
+          "text": "Petro-Canada & Car Wash",
+          "languageCode": "en"
+        },
+        "types": [
+          "car_wash",
+          "convenience_store",
+          "establishment",
+          "food",
+          "gas_station",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 415.8437,
+        "travelDistanceMeters": 604.9594
+      },
+      {
+        "name": "places/ChIJ6f4BxNTizUwRhxT1UfEmrrI",
+        "placeId": "ChIJ6f4BxNTizUwRhxT1UfEmrrI",
+        "displayName": {
+          "text": "Starbucks",
+          "languageCode": "en"
+        },
+        "types": [
+          "cafe",
+          "establishment",
+          "food",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 412.10095,
+        "travelDistanceMeters": 688.3709
+      },
+      {
+        "name": "places/ChIJVeEBZNbizUwRHNJOAHqTO0w",
+        "placeId": "ChIJVeEBZNbizUwRHNJOAHqTO0w",
+        "displayName": {
+          "text": "Nepean Woods",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 423.38635,
+        "travelDistanceMeters": 975.7673
+      }
+    ],
+    "areas": [
+      {
+        "name": "places/ChIJwSVnnNTizUwRoOKi8HY8A6Q",
+        "placeId": "ChIJwSVnnNTizUwRoOKi8HY8A6Q",
+        "displayName": {
+          "text": "Chapman Mills - Rideau Crest - Davidson Heights",
+          "languageCode": "en"
+        },
+        "containment": "WITHIN"
+      },
+      {
+        "name": "places/ChIJoXxX5fv9zUwRi5w7lIpxD5Q",
+        "placeId": "ChIJoXxX5fv9zUwRi5w7lIpxD5Q",
+        "displayName": {
+          "text": "Nepean",
+          "languageCode": "en"
+        },
+        "containment": "OUTSKIRTS"
+      },
+      {
+        "name": "places/ChIJe0_pX9HizUwRAHGL582X5Aw",
+        "placeId": "ChIJe0_pX9HizUwRAHGL582X5Aw",
+        "displayName": {
+          "text": "Grovehurst Park",
+          "languageCode": "en"
+        },
+        "containment": "NEAR"
+      }
+    ]
+  },
+  "googleMapsLinks": {
+    "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff!3e0",
+    "placeUri": "https://maps.google.com/?cid=6293581782014972415",
+    "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff!12e1",
+    "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff!9m1!1b1",
+    "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4ccde2d2fb6dfcb1:0x57574b4931df51ff!10e5"
+  }
+}

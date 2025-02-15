@@ -1,0 +1,794 @@
+{
+  "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k",
+  "id": "ChIJJ89Y_FUGzkwRYLBFTd91U4k",
+  "types": [
+    "fitness_center",
+    "yoga_studio",
+    "sauna",
+    "swimming_pool",
+    "spa",
+    "sports_complex",
+    "gym",
+    "public_bath",
+    "health",
+    "sports_activity_location",
+    "point_of_interest",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(613) 515-2665",
+  "internationalPhoneNumber": "+1 613-515-2665",
+  "formattedAddress": "1395 Meadowlands Dr E, Nepean, ON K2E 0C4, Canada",
+  "addressComponents": [
+    {
+      "longText": "1395",
+      "shortText": "1395",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Meadowlands Drive East",
+      "shortText": "Meadowlands Dr E",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Nepean",
+      "shortText": "Nepean",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ontario",
+      "shortText": "ON",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Canada",
+      "shortText": "CA",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "K2E 0C4",
+      "shortText": "K2E 0C4",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "87Q69739+C8",
+    "compoundCode": "9739+C8 Nepean, Ottawa, ON, Canada"
+  },
+  "location": {
+    "latitude": 45.3535563,
+    "longitude": -75.7317149
+  },
+  "viewport": {
+    "low": {
+      "latitude": 45.352170969708496,
+      "longitude": -75.733047380291509
+    },
+    "high": {
+      "latitude": 45.354868930291495,
+      "longitude": -75.730349419708489
+    }
+  },
+  "rating": 3.5,
+  "googleMapsUri": "https://maps.google.com/?cid=9895382408197681248",
+  "websiteUri": "http://www.movatiathletic.com/",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-12T05:00:00Z"
+  },
+  "utcOffsetMinutes": -300,
+  "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e1395 Meadowlands Dr E\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNepean\u003c/span\u003e, \u003cspan class=\"region\"\u003eON\u003c/span\u003e \u003cspan class=\"postal-code\"\u003eK2E 0C4\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eCanada\u003c/span\u003e",
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 477,
+  "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "iconBackgroundColor": "#7B9EB0",
+  "displayName": {
+    "text": "MOVATI Athletic Nepean",
+    "languageCode": "en"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Fitness center",
+    "languageCode": "en"
+  },
+  "currentOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "close": {
+          "day": 1,
+          "hour": 23,
+          "minute": 59,
+          "truncated": true,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 12
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 13
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-12T05:00:00Z"
+  },
+  "primaryType": "fitness_center",
+  "shortFormattedAddress": "1395 Meadowlands Dr E, Nepean",
+  "reviews": [
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfN05USTdRRRAB",
+      "relativePublishTimeDescription": "4 weeks ago",
+      "rating": 3,
+      "text": {
+        "text": "Love the gym, love the staff great place.\n\nBut but but I hate it when they walk new people when they were trying to show off there spa and pool area. Hate it.\n\nMembers go there to relax and you have people there constantly in and out strangers watching you. My wife got very uncomfortable with a creep staring at her for good 5 minutes.\n\nMembers are good they mind there business but this has to stop or they can close for half an hour window to show off there pool and spa’s for non members.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Love the gym, love the staff great place.\n\nBut but but I hate it when they walk new people when they were trying to show off there spa and pool area. Hate it.\n\nMembers go there to relax and you have people there constantly in and out strangers watching you. My wife got very uncomfortable with a creep staring at her for good 5 minutes.\n\nMembers are good they mind there business but this has to stop or they can close for half an hour window to show off there pool and spa’s for non members.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Pathak Meet",
+        "uri": "https://www.google.com/maps/contrib/115379243760687670937/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfN22ZO1iKuDAk0eryzlRSnJ7ddCi2L8O8bafZAU4GU5bYZQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-13T18:37:41.786013Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfN05USTdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfN05USTdRRRAB!2m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaGVqMi1BRRAB",
+      "relativePublishTimeDescription": "4 months ago",
+      "rating": 2,
+      "text": {
+        "text": "Facility and staff are 5 star very happy on that front!\n\nRegarding memberships. Bought classic membership primarily as I go to Merivale 90% of the time. When going to other Movati's it would cost me $5 which I was not pleased about but could deal with paying a basic $81 membership. Now Movati has decided to charge you $16.50 for using another Movati facility other then your home gym under a classic membership. This is disgusting and quite frankly just wrong!! So options they give you is pay the $16.50 if you go to another movati everytime or upgrade your membership for another $30 a month so $110 ttl. All I can say is come on 12 months so I can leave this place!!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Facility and staff are 5 star very happy on that front!\n\nRegarding memberships. Bought classic membership primarily as I go to Merivale 90% of the time. When going to other Movati's it would cost me $5 which I was not pleased about but could deal with paying a basic $81 membership. Now Movati has decided to charge you $16.50 for using another Movati facility other then your home gym under a classic membership. This is disgusting and quite frankly just wrong!! So options they give you is pay the $16.50 if you go to another movati everytime or upgrade your membership for another $30 a month so $110 ttl. All I can say is come on 12 months so I can leave this place!!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Sanjul Kumar",
+        "uri": "https://www.google.com/maps/contrib/114342642243762930758/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxnngL_F6W648ICUr7vWzrTbyUtukmLIQ80FtX9yzOA8yUdtHUaQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-01-25T14:55:30.162553Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaGVqMi1BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaGVqMi1BRRAB!2m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBMEltcFlnEAE",
+      "relativePublishTimeDescription": "a week ago",
+      "rating": 4,
+      "text": {
+        "text": "Really nice centre. Only two complaints.\nI really wish they would clean the pool/ hot tub more often as constantly would be doing laps and a bundle of hair would collide with me, or if i were just relaxing in the hot tub the foam from the jets would always collect the dirt and hair from the hot tub and spew it everywhere. (This is the universal pool by the way) second, this is more of a personal thing but i really wish they would add a Hacksquat machine. Ive used it a couple tiems in other gyms and it really changed my leg workouts as a whole. Really hope they add one. But other than that the facility is great, Kind staff, clean machines, nothing really breaks down like saunas or showers and whrn they do they get repaired in a day or two",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Really nice centre. Only two complaints.\nI really wish they would clean the pool/ hot tub more often as constantly would be doing laps and a bundle of hair would collide with me, or if i were just relaxing in the hot tub the foam from the jets would always collect the dirt and hair from the hot tub and spew it everywhere. (This is the universal pool by the way) second, this is more of a personal thing but i really wish they would add a Hacksquat machine. Ive used it a couple tiems in other gyms and it really changed my leg workouts as a whole. Really hope they add one. But other than that the facility is great, Kind staff, clean machines, nothing really breaks down like saunas or showers and whrn they do they get repaired in a day or two",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Marina and Dara",
+        "uri": "https://www.google.com/maps/contrib/102791650043015871438/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0IUwNuvYR2amsees3X86Aj1abYdSa390UB_NBHNXiz62Ueqmb=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-29T00:43:04.051569Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBMEltcFlnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBMEltcFlnEAE!2m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmLWRQU2FBEAE",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "Friendly and caring staff here! I really want to also take a minute and thank Nike C. and Desiree L. from the member support team here at Movati! They went above and beyond in taking care of my family's membership needs, they were knowledgeable and offered options given some lifestyle changes. Thank you so much again!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Friendly and caring staff here! I really want to also take a minute and thank Nike C. and Desiree L. from the member support team here at Movati! They went above and beyond in taking care of my family's membership needs, they were knowledgeable and offered options given some lifestyle changes. Thank you so much again!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Rachel Hammer",
+        "uri": "https://www.google.com/maps/contrib/112984696448800405930/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5FDiTqqz0RSqj-tvBDigHK8DiietEJqQ-HRWgfPa1sRpJj9K3=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-12-30T20:12:28.527518Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmLWRQU2FBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmLWRQU2FBEAE!2m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/reviews/ChdDSUhNMG9nS0VJQ0FnSURQNHNuV3JnRRAB",
+      "relativePublishTimeDescription": "3 months ago",
+      "rating": 1,
+      "text": {
+        "text": "I’m so disappointed with the service I’m receiving and the machines are always broken. My contract with them ended a month ago and I’m still being charged. I contacted them twice two months ago by email prior to the end of my contract and never got a response back. I now have to send an letter to cancel my membership (even though I did not renewed it) but how can I expect them to acknowledge my letter when they don’t bother answering emails. Oh and when I called, the supervisor was so condescending, she started explained to me what a letter is when I asked what information I should put in the letter.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "I’m so disappointed with the service I’m receiving and the machines are always broken. My contract with them ended a month ago and I’m still being charged. I contacted them twice two months ago by email prior to the end of my contract and never got a response back. I now have to send an letter to cancel my membership (even though I did not renewed it) but how can I expect them to acknowledge my letter when they don’t bother answering emails. Oh and when I called, the supervisor was so condescending, she started explained to me what a letter is when I asked what information I should put in the letter.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Patrick Okwir",
+        "uri": "https://www.google.com/maps/contrib/102407734339537340278/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNtV_OXDvtlWulF8IA-Gqyzz7eP_Dw6UrETf9ZVNwrdglhmjoR0Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-11-30T13:40:28.890346Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQNHNuV3JnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQNHNuV3JnRRAB!2m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbkJqEEZsyjPh1NvuSXs6Pg7ZZ_DdncMM3G7WCI52yBwq5vNsVplDkjqo6KnWONb0GGITDYkn-5GoTKX9bG3t3VTpcGu6-LSvZBrogpSRKAcVIKgXm-DraVl6ADYUa1TMfP1k5R4dQK_IVibs30XQDkJTjzl2-xTs925",
+      "widthPx": 851,
+      "heightPx": 315,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Nepean",
+          "uri": "https://maps.google.com/maps/contrib/116640732450828362769",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3_aRYVtd0UVPyfjUdmgdRaLcvEaht2zah5fCQ2wFbY6vnR7U=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPp1yEVS_5tg-ZJszplpuiHXelLvzwmYGskDYvY&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPp1yEVS_5tg-ZJszplpuiHXelLvzwmYGskDYvY!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbn28tBY5BY_jrkk8TP4iYKMgcIbzIB3b9hcpBqBb8LDi8EboCfC63JVF9-hlTjUtZYlsbWc7QoVG7wMM_DH7kuy40Dyiwigr6FFj-uCAZoVznXM2QlkhRyPaLTRrGVHkx8MbJuwPuqT974UM8aRoZpJdcYf4CPq_-eE",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "P S",
+          "uri": "https://maps.google.com/maps/contrib/113869310918439287551",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlfJQ_D-1hxP9ukNYaWC9J4LoWGumAjzlaqM3MUkxazkKE6n4=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOMxo3lXFhFq49aDHeqPL8UK-x-n7htgrNmULnm&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOMxo3lXFhFq49aDHeqPL8UK-x-n7htgrNmULnm!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbm4LUv34z7u8lZBCgGTzayjkd5ouUCg2lR1Dcl0EWClLWLv-vdLwmjLGE2fuZfA9tSfEU19szrIpTqhZUyw9CLypzvWIMfkb6JItItR83glYZOkERC-z_J5sW83D6dv1ewa1tmuQD7sg3gVxiE-qjM7YcoexZd3i-8I",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPobsr7YUGQZ4G-yCiw_zSHMJUtkIeQCQjN_gfK&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPobsr7YUGQZ4G-yCiw_zSHMJUtkIeQCQjN_gfK!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbmXm5CpFDqZorBuwaG4-Hbr5_EUStj-WiJVmt46JK8MdCtdKYUwSMmTieBUs3j5Z9NYbVxb8MKP_Z92o1tT1Z5PP-D3Vndxk_whylEL2n6tyTPsRwYAkaC0RrLUQz_QZSQHhhAHzdLVA0yZuExALpGjaDjhcxhDzwxF",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "authorAttributions": [
+        {
+          "displayName": "王Hairui",
+          "uri": "https://maps.google.com/maps/contrib/102268083437722321198",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBw4hrsj_Wx3JQUV2HhUUH6aaORSfxOs1ADdV2x_UaWqS4O70=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwAvAPyQERDxtseSzvxfugo0Xb4z45bgRdCBWV&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwAvAPyQERDxtseSzvxfugo0Xb4z45bgRdCBWV!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbngmH20Rtu2kFn7CO3LWMa95yz1Ly68r-NABlhOmr7LXZQfSKA9rBztS0AzXW0O0BGQQ7S7u0YN44xuFF2JoO5XkifcHBfS7t9U1hOVwwnqLCczmNGptB5tA0dHvKLbtRUxH7cW1jOGN13fvrllykuV-kCtUVUGmVS_",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOq0olRTPp9fV7Mhr0UdzLJ11FmUfEo7Nr6S3dx&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOq0olRTPp9fV7Mhr0UdzLJ11FmUfEo7Nr6S3dx!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbkZsVZ2Rv5OvL5LXrvuQaEJvfPgBtUlQnLFTa5IZf-3PDqDBU1KwJ7mNa-Vn4ep3yEzZRki5HEPo7Nrg28cmowYyxRGzAxzM40e3NUaQ2Y9ZmXBzaWCI-y5vjaBwEG0njeUWrpHRnqiF5OjrmmK_RtbSW884Zr6bnXJ",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM7-dU94oBjqGP0DJ35kXgF-B3-2-5EVoLyQsen&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7-dU94oBjqGP0DJ35kXgF-B3-2-5EVoLyQsen!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbl4VHSFLR_6h69PhkV_M82UWMco3U9bclfStOorljHXq8LUpeBCZVNCPpMg7eH0TyENTfQgrcY8p0Bzl1Miq1ks45koEXj7I4WNZOw1X8Hnjp_7VjzTs31SL8tAeo84Rj7see1vteYgyIQ8p4A7frdKEryUcSQzU6R7",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNdra0iaBzjSkYuclHRp5kRikkPZ7f4da10B1Nb&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdra0iaBzjSkYuclHRp5kRikkPZ7f4da10B1Nb!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbnzxnIoqCbcxolfpr6DhQXadzvli1UKgM1PPP-p-msDFKlCMir_ZRZueH4DxF3MZLQDbjR9S8vW5Iakgo4zU6GUBLTShyKme1adrY6Jv6JOLu9X-6945NJuLV66gU06ovB_KBbrSP8CkSGtoSypfiT8HZyu8C2r2f41",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Radowan Alfutini",
+          "uri": "https://maps.google.com/maps/contrib/108255210910271780464",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_1u6_mJOVZVrlg92BCK4v455NVzz5sXfiTirMgTFlqj4cwdUUuQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMnPHgfBDDGj2MtM5W4Z5q889hiTGb4ZJE7Okhz&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMnPHgfBDDGj2MtM5W4Z5q889hiTGb4ZJE7Okhz!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbn2Avlh5XMeEL4sLGv2qrh_PhjCjGGFEWPNLUhwKriD385gfu8DTKD6SuQuqED1BigXgIXBXvZcjve-cjIyNJr1x7_RE1M4uT0o94OVOJqy3Y5uRPd-_I_x5mqWx0E6RtxZZCfsYKpGiCG4lfpm4QrXylkVEnFSNQlG",
+      "widthPx": 4032,
+      "heightPx": 2268,
+      "authorAttributions": [
+        {
+          "displayName": "Cyrus Hutnyk",
+          "uri": "https://maps.google.com/maps/contrib/112797488306992713284",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTK-yYemWt0TKqXuHYbP4THuAmAaB8vdq3YUWxs5XDlvDLLVqz=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNj6rbbQT3ZjSsSWdRo0f6CeDgmHyw8R4zVUAZe&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNj6rbbQT3ZjSsSWdRo0f6CeDgmHyw8R4zVUAZe!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    },
+    {
+      "name": "places/ChIJJ89Y_FUGzkwRYLBFTd91U4k/photos/AVzFdbloRHBGpMZlIQQHkwte3p9TvKHiHXGuv7qNuqrAcdafYLWfr9W9g-XWQh_3QTwB964z58nthsSuQKBXesAqKSpQLS-D8x3FrjZyfmQbKbsb3bLKKG2tkBS-HCW3Fas0KTP1R54rwPw52-yh5HCBN6YKG2O-ruUwnAqb",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Cristian Soare",
+          "uri": "https://maps.google.com/maps/contrib/104750100089727080109",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnroqu12wDLz-W1CVAqb8GSZaKlGxpOq9Hb3ZS8mawQrKzD8v9sQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLz3ySqpq4dOJOHKKEkSYRP7X0zVePaomzvCfd&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLz3ySqpq4dOJOHKKEkSYRP7X0zVePaomzvCfd!2e10!4m2!3m1!1s0x4cce0655fc58cf27:0x895375df4d45b060"
+    }
+  ],
+  "goodForChildren": true,
+  "restroom": true,
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true,
+    "wheelchairAccessibleRestroom": true
+  },
+  "containingPlaces": [
+    {
+      "name": "places/ChIJi5uzCv8GzkwRKNpcjxlFcak",
+      "id": "ChIJi5uzCv8GzkwRKNpcjxlFcak"
+    }
+  ],
+  "pureServiceAreaBusiness": false,
+  "addressDescriptor": {
+    "landmarks": [
+      {
+        "name": "places/ChIJi5uzCv8GzkwRKNpcjxlFcak",
+        "placeId": "ChIJi5uzCv8GzkwRKNpcjxlFcak",
+        "displayName": {
+          "text": "FreshCo Merivale & Meadowlands",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "food",
+          "grocery_or_supermarket",
+          "point_of_interest",
+          "store",
+          "supermarket"
+        ],
+        "spatialRelationship": "WITHIN",
+        "straightLineDistanceMeters": 145.52995,
+        "travelDistanceMeters": 378.90842
+      },
+      {
+        "name": "places/ChIJBfQ_WP4GzkwRiz5iEmJdig4",
+        "placeId": "ChIJBfQ_WP4GzkwRiz5iEmJdig4",
+        "displayName": {
+          "text": "Money Mart",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "finance",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 277.06107,
+        "travelDistanceMeters": 543.09314
+      },
+      {
+        "name": "places/ChIJEVeYqPgGzkwRcrn9OFuyOIw",
+        "placeId": "ChIJEVeYqPgGzkwRcrn9OFuyOIw",
+        "displayName": {
+          "text": "Parkwood Hills I",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "real_estate_agency"
+        ],
+        "straightLineDistanceMeters": 168.46623,
+        "travelDistanceMeters": 426.9366
+      },
+      {
+        "name": "places/ChIJzzqX_f8GzkwRv0sDU5BSP9I",
+        "placeId": "ChIJzzqX_f8GzkwRv0sDU5BSP9I",
+        "displayName": {
+          "text": "Tim Hortons",
+          "languageCode": "en"
+        },
+        "types": [
+          "bakery",
+          "cafe",
+          "establishment",
+          "food",
+          "point_of_interest",
+          "restaurant",
+          "store"
+        ],
+        "straightLineDistanceMeters": 252.03416,
+        "travelDistanceMeters": 340.13196
+      },
+      {
+        "name": "places/ChIJwbj3KP8GzkwRRzsOXgK-YFM",
+        "placeId": "ChIJwbj3KP8GzkwRRzsOXgK-YFM",
+        "displayName": {
+          "text": "Ottawa Public Library - Emerald Plaza",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "library",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 182.1322,
+        "travelDistanceMeters": 259.26486
+      }
+    ],
+    "areas": [
+      {
+        "name": "places/ChIJyRGSn_8GzkwRrsarH21Qaxs",
+        "placeId": "ChIJyRGSn_8GzkwRrsarH21Qaxs",
+        "displayName": {
+          "text": "FreshCo Merivale & Meadowlands",
+          "languageCode": "en"
+        },
+        "containment": "WITHIN"
+      },
+      {
+        "name": "places/ChIJj6-QZlgGzkwRADCZJq8JL5A",
+        "placeId": "ChIJj6-QZlgGzkwRADCZJq8JL5A",
+        "displayName": {
+          "text": "Cityview - Skyline - Fisher Heights",
+          "languageCode": "en"
+        },
+        "containment": "OUTSKIRTS"
+      },
+      {
+        "name": "places/ChIJoXxX5fv9zUwRi5w7lIpxD5Q",
+        "placeId": "ChIJoXxX5fv9zUwRi5w7lIpxD5Q",
+        "displayName": {
+          "text": "Nepean",
+          "languageCode": "en"
+        },
+        "containment": "OUTSKIRTS"
+      }
+    ]
+  },
+  "googleMapsLinks": {
+    "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4cce0655fc58cf27:0x895375df4d45b060!3e0",
+    "placeUri": "https://maps.google.com/?cid=9895382408197681248",
+    "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cce0655fc58cf27:0x895375df4d45b060!12e1",
+    "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4cce0655fc58cf27:0x895375df4d45b060!9m1!1b1",
+    "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cce0655fc58cf27:0x895375df4d45b060!10e5"
+  }
+}

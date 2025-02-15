@@ -1,0 +1,790 @@
+{
+  "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M",
+  "id": "ChIJW6hL7H4PzkwRG4U3oYaft9M",
+  "types": [
+    "fitness_center",
+    "yoga_studio",
+    "sauna",
+    "gym",
+    "spa",
+    "swimming_pool",
+    "sports_complex",
+    "sports_activity_location",
+    "health",
+    "public_bath",
+    "point_of_interest",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(613) 789-5600",
+  "internationalPhoneNumber": "+1 613-789-5600",
+  "formattedAddress": "195 Trainyards Dr, Ottawa, ON K1G 3X8, Canada",
+  "addressComponents": [
+    {
+      "longText": "195",
+      "shortText": "195",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Trainyards Drive",
+      "shortText": "Trainyards Dr",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Industrial Park",
+      "shortText": "Industrial Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ottawa",
+      "shortText": "Ottawa",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Ontario",
+      "shortText": "ON",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Canada",
+      "shortText": "CA",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "K1G 3X8",
+      "shortText": "K1G 3X8",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "87Q6C966+V3",
+    "compoundCode": "C966+V3 Gloucester, Ottawa, ON, Canada"
+  },
+  "location": {
+    "latitude": 45.412157199999996,
+    "longitude": -75.639867999999993
+  },
+  "viewport": {
+    "low": {
+      "latitude": 45.410690769708509,
+      "longitude": -75.6413613302915
+    },
+    "high": {
+      "latitude": 45.4133887302915,
+      "longitude": -75.638663369708482
+    }
+  },
+  "rating": 3.3,
+  "googleMapsUri": "https://maps.google.com/?cid=15255837663320048923",
+  "websiteUri": "http://www.movatiathletic.com/",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-15T05:00:00Z"
+  },
+  "utcOffsetMinutes": -300,
+  "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e195 Trainyards Dr\u003c/span\u003e, \u003cspan class=\"locality\"\u003eOttawa\u003c/span\u003e, \u003cspan class=\"region\"\u003eON\u003c/span\u003e \u003cspan class=\"postal-code\"\u003eK1G 3X8\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eCanada\u003c/span\u003e",
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 538,
+  "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "iconBackgroundColor": "#7B9EB0",
+  "displayName": {
+    "text": "MOVATI Athletic Trainyards",
+    "languageCode": "en"
+  },
+  "primaryTypeDisplayName": {
+    "text": "Fitness center",
+    "languageCode": "en"
+  },
+  "currentOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "close": {
+          "day": 0,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 16
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 18
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 18
+          }
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 19
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 59,
+          "truncated": true,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 20
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 5,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 6,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "close": {
+          "day": 6,
+          "hour": 20,
+          "minute": 0,
+          "date": {
+            "year": 2025,
+            "month": 2,
+            "day": 15
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 5:00 AM – 12:00 AM",
+      "Tuesday: 5:00 AM – 12:00 AM",
+      "Wednesday: 5:00 AM – 12:00 AM",
+      "Thursday: 5:00 AM – 12:00 AM",
+      "Friday: 5:00 AM – 12:00 AM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "nextCloseTime": "2025-02-15T05:00:00Z"
+  },
+  "primaryType": "fitness_center",
+  "shortFormattedAddress": "195 Trainyards Dr, Ottawa",
+  "reviews": [
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcGQtSnFRRRAB",
+      "relativePublishTimeDescription": "a week ago",
+      "rating": 5,
+      "text": {
+        "text": "Best staff and the best attitude I have ever dealt with. I want to the other location and ask for a scan card. They give me a shit and headache about it. I come here never ever bad problem in this location.\nThank you for making it feel welcome",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Best staff and the best attitude I have ever dealt with. I want to the other location and ask for a scan card. They give me a shit and headache about it. I come here never ever bad problem in this location.\nThank you for making it feel welcome",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Mohed Abukhater",
+        "uri": "https://www.google.com/maps/contrib/106469883678072388517/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL86Hppjfqvxe2yTJmieFagUkywKcC8rvb63ilMLvn7UfcA5w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-02-02T17:02:27.017876Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcGQtSnFRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcGQtSnFRRRAB!2m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeF83VWJnEAE",
+      "relativePublishTimeDescription": "a week ago",
+      "rating": 5,
+      "text": {
+        "text": "Trainyards team has been a delight to work with and fixing my issue with my membership! I can't express how grateful I am for how Brett handled my situation and his efficiency in responding to my questions within a timely manner. I was dealing with another location who just wasn't getting back to me and providing any support. I was constantly calling and getting very little answers with no follow up. This was becoming very frustrating until I went to trainyard. When in doubt, reach out to trainyard ! Thank you again for your customer service and being responsive. All is fixed and I am back to my workout routine.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Trainyards team has been a delight to work with and fixing my issue with my membership! I can't express how grateful I am for how Brett handled my situation and his efficiency in responding to my questions within a timely manner. I was dealing with another location who just wasn't getting back to me and providing any support. I was constantly calling and getting very little answers with no follow up. This was becoming very frustrating until I went to trainyard. When in doubt, reach out to trainyard ! Thank you again for your customer service and being responsive. All is fixed and I am back to my workout routine.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Sonia Hudon",
+        "uri": "https://www.google.com/maps/contrib/108465551141978413761/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjYkBg41zijs2dPhgeaK9Js8Q_DtuK7DJT58i4sbVeS0J5oA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-02-04T23:21:03.989489Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBeF83VWJnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBeF83VWJnEAE!2m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNma2NIaDZ3RRAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "Friendly staff, clean and spacious areas with plenty of machines available — showers and changing room can get pretty busy during peak hours, but it’s manageable. Love the smoothie bar, towel service, and group classes!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Friendly staff, clean and spacious areas with plenty of machines available — showers and changing room can get pretty busy during peak hours, but it’s manageable. Love the smoothie bar, towel service, and group classes!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "gerardo mj",
+        "uri": "https://www.google.com/maps/contrib/112062297182808101985/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjTHhdM8rXlLzspbqH4aYs6fUnnKL16dP_RctbWer2Tj5NPJ6S=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-12-29T23:43:58.649147Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNma2NIaDZ3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNma2NIaDZ3RRAB!2m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIb3ZTNXF3RRAB",
+      "relativePublishTimeDescription": "5 months ago",
+      "rating": 5,
+      "text": {
+        "text": "The customer service at Movatti Athletic is excellent. Ben, the accountant, is very welcoming and takes the time to explain everything clearly, offering great deals. The gym itself is clean, well-organized, and despite being quite busy, it never feels overcrowded. This location might have more members than others, but it’s still a fantastic experience, and I really enjoyed my time here.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "The customer service at Movatti Athletic is excellent. Ben, the accountant, is very welcoming and takes the time to explain everything clearly, offering great deals. The gym itself is clean, well-organized, and despite being quite busy, it never feels overcrowded. This location might have more members than others, but it’s still a fantastic experience, and I really enjoyed my time here.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Hala Chakra",
+        "uri": "https://www.google.com/maps/contrib/105274996002496598737/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK54TG7odhQi6FPg9zEqEcpVkp-MlvenLCn55T-eMt6LczKTvo=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-09-02T22:07:08.601562Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIb3ZTNXF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIb3ZTNXF3RRAB!2m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaDZ6OWlBRRAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 1,
+      "text": {
+        "text": "Avoid providing your banking information to Movati Athletics Ottawa Trainyards, as they may continue withdrawing funds from your account even after you've canceled your membership.\n\nEven after providing them with a cancellation letter which oddly you have to do in order to cancel your membership, they will continue to take money out of your bank account\n\nDo not recommend.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Avoid providing your banking information to Movati Athletics Ottawa Trainyards, as they may continue withdrawing funds from your account even after you've canceled your membership.\n\nEven after providing them with a cancellation letter which oddly you have to do in order to cancel your membership, they will continue to take money out of your bank account\n\nDo not recommend.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Kelsey Guindon",
+        "uri": "https://www.google.com/maps/contrib/118350778173757251270/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJSOTNs8wf9XbjtbhMe-XiY1eWXyAYnJNXG0KW6tmvjSlKFIQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-27T15:14:26.634185Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaDZ6OWlBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaDZ6OWlBRRAB!2m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbktE5LCN3Dx0__t04Ym0LzIDkob4HIhnxGQCtkjYourEsZmVIa1grRVe1362NHXkZbzhJfEgoCtZI9b07FbJ8Tx5ppdB93FEsOFnQ74X7B6QMfGAP7v7xfY7plhYwd5jMrhkmaT1Gxy_z1ZBJ_z4KU_WGmPIKlAV9BO",
+      "widthPx": 851,
+      "heightPx": 315,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLRhhsV9wF8fORmGge1EGD5vNQmAOZ3GBu7oMZ&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLRhhsV9wF8fORmGge1EGD5vNQmAOZ3GBu7oMZ!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbnsw9W-c-IJUjRzQbDHcor58x5gGtbHEgP50G4S-6ngT3hhSeh91KMWlIsRWz48qvyGhGW43soZeVpElUPbjQiFDCFijvFuCjWSINKbUwcYD7FUuMt6oP5cQVu_61xDVVHXCf6nMJ9qMIdcLh5EEWEaZGKkW7IW7hFC",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7uzPwFQEpjJs3bgbq1o4JOsYBYzLuVshjfO33&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7uzPwFQEpjJs3bgbq1o4JOsYBYzLuVshjfO33!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbnFgZ17lGlJz56oiUI0rxafx38I6yk8uyciMsX254_MQ7yxgeQOR69VUd1beMuuTg8NpK3YA3PlCSPz9xSOPLZzu9g19rNiPoGr0OQwRsYCat-oxhpBEoegB9718wKMjS5jAnT00FzkhwVTE7hcxoUYAtqOiob-Z-xM",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNuRmKhWeMcLzXXU3XciqmF6ORHYVtisvT27mGL&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNuRmKhWeMcLzXXU3XciqmF6ORHYVtisvT27mGL!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdblBBOWMDwRMa8mOqTiZBhtDVNKmqB-WBb7zFsDjYAOWUHJat1bJKm0bIkNOObZHL0G6hrPHOYX6fTLhQz2DN5oU5tm59ffZU6xnxCyolDVwfq0B4dv5TQuDcGmbdY5OCGI_aBeDhpFc54RFRF7LZqNeBtYb4hnm-41d",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOs0El2A6y8EuUwOKsxzhRQz-i-KPhA7THYqWyP&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOs0El2A6y8EuUwOKsxzhRQz-i-KPhA7THYqWyP!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdblmY5y_rLxHxYyuJAn11-BPMIIborYOql41H1dh8BpA59cYXXuZpsBj_Cvm4PJSFJrHLmZg6JHdbZmzYeKzRmGI-Pan81bpOwJ5TJWXHyQoUwGsoagXeziqlr_AiM5N8krEy4PmerYdDjztQpvn6Al98d1Etwi_au4D",
+      "widthPx": 1920,
+      "heightPx": 1080,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNc7fw3jbcelg9m5Pq8flmwQEdkdzi91YqZeyD3&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNc7fw3jbcelg9m5Pq8flmwQEdkdzi91YqZeyD3!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbndPIwtm44wqE7OQ8DfWShNsrzgfBb_OiEskJG-4vbhaOsJ83hK-iY-h4jkNRWv274SbVva8G0H11YLHqkS7DvAGt_SbO0ZzlMTk9LQDTuWBbf0KD6UeRgF4XwcMNYI84mviRrgm4p7N-8azWRg92NtHGbrMDk8DcBw",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP1Gxm3VjF8lyZ2B9T_j-wAGSXKw9V-pAg_EFq5&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP1Gxm3VjF8lyZ2B9T_j-wAGSXKw9V-pAg_EFq5!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbmmmJihe8_yCh8VOBA8PhGDZdEt3KS11DKDBTuuDPk7JP8K1AVa2MUdGGexfYZtTvQpm0FIkXrT21eKaVt4TuR0Yb2ZRCkKS1kpnt8NMdk_pbJN1V1dGaH08QIV1oso7q4N0XWP-THQGOmwXQ30X6XXAdwono0Z4v78",
+      "widthPx": 1500,
+      "heightPx": 1000,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNleTHUK23sHBER9fSODW_ap09j-Fl_4ELTAXaD&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNleTHUK23sHBER9fSODW_ap09j-Fl_4ELTAXaD!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdblDFtyt_MX4BhEqopo2rlt4ryhfDfIf5_MsKtkfevuYyT2c4TuIH68Dxa0h4Wp7ft8LhcEss2SPFpASfd7d6Pt2_Tzwc_-In3Ac1nZpj7ZnATRJoKt9wcadtZh-4_-Wjejd4g2DQ0k27aDtz74h8thGkU6Y7_HBqPeo",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "shalvius",
+          "uri": "https://maps.google.com/maps/contrib/103186587285301207756",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEQKNuAKHISGszM6NvUYEljhacTnXuU505v1sAom8PI2SXY64=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjVL6p_iqbDKBHWYPObVMPFL2quJLnJgCnkKbL&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjVL6p_iqbDKBHWYPObVMPFL2quJLnJgCnkKbL!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdbnEUFc3YVPdF3fa6nFsSFjbux1eU0zhBIL2L-UOEW1b1nmQZ8hkQIGIdVXGpikag8toCa0T_BfyBNcV6-58o-YaDyjHWEy2ppg7W1Is81eCkjmP40Xo_WcFLEDh4DMjzcjSEoW3QElOVnpQOIEsYuDzeRHvEwjPDjtS",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOl-neWPScR4TJbmjVMpERU7tseDIs6VBn262_P&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOl-neWPScR4TJbmjVMpERU7tseDIs6VBn262_P!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    },
+    {
+      "name": "places/ChIJW6hL7H4PzkwRG4U3oYaft9M/photos/AVzFdblvRSf0gMLfGc4pGaygbDaMHpYjQjYlHy24SA5cXnySLdCdF6NvbBoiz4Luc_hevUkcFvHJy-iK5o8WX1I3McHhF7FIPEmmA2YI7KWeB2_L6vu2-IxdA4bLZ6N9jaDVK7SqP8dMrbWdsDQVT1c7KgFzvmdi6kFgoEzx",
+      "widthPx": 4800,
+      "heightPx": 3203,
+      "authorAttributions": [
+        {
+          "displayName": "MOVATI Athletic Trainyards",
+          "uri": "https://maps.google.com/maps/contrib/105723970159059299103",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH4X4tlnK8MfWYJ1RrXP2YUHf2d4IN6cnZyR9UJ2KyBCctyKwL=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkMKmqApfHyj-KDIDLswHwzO8I6Um0pcclfmwm&hl=en",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkMKmqApfHyj-KDIDLswHwzO8I6Um0pcclfmwm!2e10!4m2!3m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b"
+    }
+  ],
+  "restroom": true,
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true,
+    "wheelchairAccessibleRestroom": true
+  },
+  "containingPlaces": [
+    {
+      "name": "places/ChIJj8FeQn4PzkwRaAbbzSRsE8Q",
+      "id": "ChIJj8FeQn4PzkwRaAbbzSRsE8Q"
+    }
+  ],
+  "pureServiceAreaBusiness": false,
+  "addressDescriptor": {
+    "landmarks": [
+      {
+        "name": "places/ChIJKVa7iHkPzkwRXInZYA3cbmA",
+        "placeId": "ChIJKVa7iHkPzkwRXInZYA3cbmA",
+        "displayName": {
+          "text": "Pioneer - Gas Station",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "gas_station",
+          "point_of_interest"
+        ],
+        "straightLineDistanceMeters": 94.501595,
+        "travelDistanceMeters": 216.16254
+      },
+      {
+        "name": "places/ChIJ97l7hHkPzkwRIcZOjmHABAY",
+        "placeId": "ChIJ97l7hHkPzkwRIcZOjmHABAY",
+        "displayName": {
+          "text": "Farm Boy",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "food",
+          "grocery_or_supermarket",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 153.6792,
+        "travelDistanceMeters": 245.09862
+      },
+      {
+        "name": "places/ChIJvSmIJH8PzkwRhCkJDhlCBOI",
+        "placeId": "ChIJvSmIJH8PzkwRhCkJDhlCBOI",
+        "displayName": {
+          "text": "Old Navy",
+          "languageCode": "en"
+        },
+        "types": [
+          "clothing_store",
+          "establishment",
+          "point_of_interest",
+          "store"
+        ],
+        "straightLineDistanceMeters": 96.71346,
+        "travelDistanceMeters": 111.05918
+      },
+      {
+        "name": "places/ChIJj8FeQn4PzkwRaAbbzSRsE8Q",
+        "placeId": "ChIJj8FeQn4PzkwRaAbbzSRsE8Q",
+        "displayName": {
+          "text": "Ottawa Train Yards",
+          "languageCode": "en"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "shopping_mall"
+        ],
+        "spatialRelationship": "WITHIN",
+        "straightLineDistanceMeters": 362.4727,
+        "travelDistanceMeters": 396.6542
+      },
+      {
+        "name": "places/ChIJz0tGmH4PzkwRwkpHiUe0FsM",
+        "placeId": "ChIJz0tGmH4PzkwRwkpHiUe0FsM",
+        "displayName": {
+          "text": "SKECHERS Warehouse Outlet",
+          "languageCode": "en"
+        },
+        "types": [
+          "clothing_store",
+          "establishment",
+          "point_of_interest",
+          "shoe_store",
+          "store"
+        ],
+        "straightLineDistanceMeters": 277.70358,
+        "travelDistanceMeters": 306.28622
+      }
+    ],
+    "areas": [
+      {
+        "name": "places/ChIJc_yPiYAFzkwRQHf1_eN-8mg",
+        "placeId": "ChIJc_yPiYAFzkwRQHf1_eN-8mg",
+        "displayName": {
+          "text": "Ottawa Train Yards",
+          "languageCode": "en"
+        },
+        "containment": "WITHIN"
+      },
+      {
+        "name": "places/ChIJIe1v0QEPzkwRVmz4HzNadIM",
+        "placeId": "ChIJIe1v0QEPzkwRVmz4HzNadIM",
+        "displayName": {
+          "text": "Industrial Park",
+          "languageCode": "en"
+        },
+        "containment": "OUTSKIRTS"
+      },
+      {
+        "name": "places/ChIJReFDd3kPzkwRIGfWfF9hcww",
+        "placeId": "ChIJReFDd3kPzkwRIGfWfF9hcww",
+        "displayName": {
+          "text": "Pioneer - Gas Station",
+          "languageCode": "en"
+        },
+        "containment": "NEAR"
+      }
+    ]
+  },
+  "googleMapsLinks": {
+    "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b!3e0",
+    "placeUri": "https://maps.google.com/?cid=15255837663320048923",
+    "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b!12e1",
+    "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b!9m1!1b1",
+    "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cce0f7eec4ba85b:0xd3b79f86a137851b!10e5"
+  }
+}
